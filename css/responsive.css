@@ -1,0 +1,7 @@
+/* ABOUT US */
+@media (max-width: 992px) {
+    #about::before {
+        height: 40%;
+        width: 100%;
+    }
+}
